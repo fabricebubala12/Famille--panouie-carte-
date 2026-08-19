@@ -1,0 +1,22 @@
+{
+  "name": "famille-epanouie-cartes",
+  "version": "1.0.0",
+  "description": "Application de gestion des cartes de membre - Famille Épanouie",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next": "^14.0.0",
+    "lucide-react": "^0.383.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/node": "^20.0.0"
+  }
+}
